@@ -16,7 +16,7 @@ AVIRIS-NG hyperspectral data was collected over the Outer Mackenzie Delta during
 [2] Pekel, J. F., Cottam, A., Gorelick, N. & Belward, A. S. High-resolution mapping of global surface water and its long-term changes. Nature 540, 418–422 (2016).   
 [3] Carroll, M., Wooten, M., DiMiceli, C., Sohlberg, R. & Kelly, M. Quantifying surface water dynamics at 30 meter spatial resolution in the North American high northern latitudes 1991-2011. Remote Sens. 8, (2016).   
 [4] Cooley, S. W., Smith, L. C., Ryan, J. C., Pitcher, L. H. & Pavelsky, T. M. Arctic-Boreal Lake Dynamics Revealed Using CubeSat Imagery. Geophys. Res. Lett. 46, 2111–2120 (2019).   
-[5] McFeeters, S. K. The use of the Normalized Difference Water Index (NDWI) in the delineation of open water features. Int. J. Remote Sens. 17, 1425–1432 (1996). 
+[5] McFeeters, S. K. The use of the Normalized Difference Water Index (NDWI) in the delineation of open water features. Int. J. Remote Sens. 17, 1425–1432 (1996).   
 [6] Xu, H. Modification of normalised difference water index (NDWI) to enhance open water features in remotely sensed imagery. Int. J. Remote Sens. 27, 3025–3033 (2006).      
 [7] Wang, X. et al. A robust Multi-Band Water Index (MBWI) for automated extraction of surface water from Landsat 8 OLI imagery. Int. J. Appl. Earth Obs. Geoinf. 68, 73–91 (2018).    
 [8] Miller, C. E. et al. An overview of above airborne campaign data acquisitions and science opportunities. Environ. Res. Lett. 14, (2019).     
