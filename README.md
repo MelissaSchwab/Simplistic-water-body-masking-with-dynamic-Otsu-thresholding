@@ -11,6 +11,12 @@ AVIRIS-NG hyperspectral data was collected over the Outer Mackenzie Delta during
 
 ![Methodology flowchart](https://github.com/MelissaSchwab/Simplistic-water-body-masking-with-dynamic-Otsu-thresholding/blob/main/images/Methodology%20flowchart.png)
 
+This workflow has not been optimized. Every line has to be inserted separately. This workflow is a simple excercise in determing the most adequate water mask
+
+and as basis of a more sophisticated approach Convolutional Neural Networks.
+
+
+
 ## References
 [1] Verpoorter, C., Kutser, T., Seekell, D. A. & Tranvik, L. J. A global inventory of lakes based on high-resolution satellite imagery. Geophys. Res. Lett. 41, 6396–6402 (2014).   
 [2] Pekel, J. F., Cottam, A., Gorelick, N. & Belward, A. S. High-resolution mapping of global surface water and its long-term changes. Nature 540, 418–422 (2016).   
