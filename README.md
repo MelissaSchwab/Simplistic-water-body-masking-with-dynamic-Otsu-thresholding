@@ -22,16 +22,11 @@ The results of surface water mapping using the proposed water indices are depict
 ## Next Steps
 This preliminary investigation demonstrates that optical hyperspectral AVIRIS-NG imagery in combination with established water indices is highly suitable to correctly classify open water bodies producing a high-resolution surface water mask. One of the next logical steps of the present research will be the acquisition of a more accurate reference mask improving the validation procedure. Panchromatic or multispectral imagery with spatial resolutions of <2 m (e.g., WordView-3, DigitalGlobe) can be used as input for the manual digitization of ground control points. Further optimizations include the careful selection and combination of spectral bands, water proxies, and threshold values in order to increase the detection accuracy while minimizing noise. The adaption of object-based machine learning algorithms (e.g., clustering, segmentation) will aid in the facilitation of an automated pixel classification workflow. The extraction of exact water body information will serve as a framework for subsequent hydrological, sedimentological, and geochemical studies.
 
-![Fig. 3. Final MNDWI surface water orthomosaic for the Outer Mackenzie Delta on top of Google Earth imagery.](https://user-images.githubusercontent.com/91759730/146705920-b087af7a-3b7b-442f-82e6-0c7390eba432.png)
+![Fig. 3. Final MNDWI surface water orthomosaic for the Outer Mackenzie Delta on top of Google Earth imagery.](https://github.com/MelissaSchwab/Simplistic-water-body-masking-with-dynamic-Otsu-thresholding/blob/main/images/Poster_MelissaSchwab_Figure3.png)
 
 
 # IMPORTANT NOTES
-
-
-This workflow has not been optimized. Every line has to be inserted separately. This workflow is a simple excercise in determing the most adequate water mask
-
-and as basis of a more sophisticated approach Convolutional Neural Networks.
-
+This workflow has not been optimized and is just a simple excercise in comparing and contrasting different water mask algorithms. It forms the basis of a more sophisticaed apporach using Convolutional Neural Networks to faithfully delineate surface water bodies.
 
 
 ## References
